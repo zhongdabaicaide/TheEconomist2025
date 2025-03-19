@@ -1,0 +1,39 @@
+CACHE MANIFEST
+
+CACHE:
+images/20250125_LDD001.png
+# excluded: ../audio/LEADERS_G8F2J1VP.mp3
+../thumbnails/largethumb_317557_128,25,1711,1113_resampled.jpg
+../thumbnails/largethumb_317557_128,25,1711,1113.jpg
+
+# theme assets
+../theme/images/econ-logo.png
+../theme/styles/main.css
+../theme/styles/classifieds.css
+../theme/fonts/EconSansOS-Light.ttf
+../theme/fonts/MiloTE-Medi.ttf
+../theme/fonts/EconSansOS-BoldIt.ttf
+../theme/fonts/MiloSCTE-TextIta.ttf
+../theme/fonts/MiloSCTE-Ita.ttf
+../theme/fonts/MiloTE-Bold.ttf
+../theme/fonts/EconSansOS-Medium.ttf
+../theme/fonts/EconSansOS-Italic.ttf
+../theme/fonts/MiloTE-Ita.ttf
+../theme/fonts/MiloTE.ttf
+../theme/fonts/MiloSCTE-Medi.ttf
+../theme/fonts/MiloTE-XboldIta.ttf
+../theme/fonts/MiloTE-BoldIta.ttf
+../theme/fonts/MiloSCTE-MediIta.ttf
+../theme/fonts/MiloTE-Text.ttf
+../theme/fonts/MiloSCTE-BoldIta.ttf
+../theme/fonts/EconSansOS-Bold.ttf
+../theme/fonts/MiloSCTE-Bold.ttf
+../theme/fonts/MiloSCTE.ttf
+../theme/fonts/EconSansOS-LightIt.ttf
+../theme/fonts/MiloTE-MediIta.ttf
+../theme/fonts/MiloSCTE-Text.ttf
+../theme/fonts/EconSansOS-MediumIt.ttf
+../theme/fonts/EconSansOS-Regular.ttf
+
+NETWORK:
+*
